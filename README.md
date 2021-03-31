@@ -40,3 +40,46 @@ Após realizar a montagem, vamos conferir a lista de funcionalidades e adicionar
 
 - **Editor de README.md:** https://pandao.github.io/editor.md/en.html
 - **Shield.io:** https://shields.io/
+
+
+
+# ***WAR  CATS***
+#3RB
+#Integrantes:
+## Felipe Barros de Andrade Silva
+![]https://github.com/War-Cats/Arduino_AC1/blob/main/20210330_192106.jpg
+####-Estudante  do Colégio Módulo
+####-16 anos, gosto de filmes e da natureza
+####-Fez o README e ajudou a fazer o código
+####-Ps: Já cansei do EAD
+##Edgar Neri
+![]https://github.com/War-Cats/Arduino_AC1/blob/main/PSFix_20210204_213655.jpeg
+#### -Estudante do Colégio Módulo
+#### -16 anos
+####-Ps: esperando a vacina e Fanfiqueira
+####-Ajudou a fazer o código
+##Giovanna Caldas
+![]https://github.com/War-Cats/Arduino_AC1/blob/main/giovanna.jpg
+####-Estudante do Colégio Módulo
+####-16 anos
+####-Gosto muito de química e adoro ficar com minha família e amigos!!
+####-Ajudou a fazer o codigo e montou o TinkerCad 
+##Sabrina Rodrigues
+![]https://github.com/War-Cats/Arduino_AC1/blob/main/IMG-20210330-WA0074.jpg
+####-Estudante do Colégio Módulo
+####-16 anos, nao gosto muito de tecnologia, gosto de traduçao e idiomas no geral
+####-Digitou o código e ajudou a faze-lo
+##Julia Alegrette
+![]https://github.com/War-Cats/Arduino_AC1/blob/main/WhatsApp%20Image%202021-03-30%20at%2019.44.12.jpeg
+####-Estudante do Colégio Módulo
+####-16 anos
+####-Gosto de escrever histórias, ouvir música e assistir filmes e séries
+####-Sonho em trabalhar com cinema no exterior, dirigindo ou produzindo filmes.
+####-Ajudou a fazer o código e o TinkerCad
+##Isabelle Alves
+![]https://github.com/War-Cats/Arduino_AC1/blob/main/Screenshot_20210330-204048_WhatsApp.jpg
+####-Estudante do Colégio Módulo
+####-17 anos
+####-Gosto de doramas
+####-Ajudou a fazer o código
+
