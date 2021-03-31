@@ -63,11 +63,11 @@ Após realizar a montagem, vamos conferir a lista de funcionalidades e adicionar
 #### -Estudante do Colégio Módulo
 #### -16 anos
 #### -Gosto muito de química e adoro ficar com minha família e amigos!!
-#### -Ajudou a fazer o codigo e montou o TinkerCad 
+#### -Ajudou a fazer o código e montou o TinkerCad 
 ## Sabrina Rodrigues
 ![](https://github.com/War-Cats/Arduino_AC1/blob/main/IMG-20210330-WA0074.jpg)
 #### -Estudante do Colégio Módulo
-#### -16 anos, nao gosto muito de tecnologia, gosto de traduçao e idiomas no geral
+#### -16 anos, não gosto muito de tecnologia, gosto de tradução e idiomas no geral
 #### -Digitou o código e ajudou a faze-lo
 ## Julia Alegrette
 ![](https://github.com/War-Cats/Arduino_AC1/blob/main/WhatsApp%20Image%202021-03-30%20at%2019.44.12.jpeg)
