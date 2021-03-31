@@ -8,7 +8,9 @@ bool estadoLedAzul = false;
 
 //adicionar mais um botão
 const int botao1 = 2;
+const int botao2 = 3;
 unsigned long lastDebounceTime1 = 0;
+unsigned long lastDebounceTime2 = 0;
 const int botaoDelay = 100;
 
 void setup()
@@ -26,36 +28,44 @@ void setup()
   Serial.println("                           V1.0");
   Serial.println("Grupo: WAR-CATS              ");
 }
-
 //acender e apagar o led vermelho
 void loop()
 {
   if((millis() - lastDebounceTime1) > botaoDelay && digitalRead(botao1)){
   	Serial.println("botao 1 apertado");
-    ledVermelho();
+    ledVermelho(true);
   	lastDebounceTime1 = millis();
   }
-  
+  if ((millis() - lastDebounceTime2) > botaoDelay && digitalRead(botao2)){
+	Serial.println("botao 2 apertado");
+    ledVermelho(false);
+	lastDebounceTime2 = millis();
+  } 
   if(getTemperatura() > 15){
     ledAzul(true);
+    Serial.println("temperatura elevada");
   }else{
   	ledAzul(false); 
+    Serial.println("temperatura ideal");
   }
-  	
+  	if(getLuminosidade() > 5){
+    ledVerde(true);
+    Serial.println("luminosidade elevada");
+  }else{
+	ledVerde(false);
+    Serial.println("luminosidade ideal");
+  }	
   delay(10);
 }
 
-void ledVermelho(){
-  estadoLedVermelho = !estadoLedVermelho;
-  digitalWrite(vermelho,estadoLedVermelho);
+void ledVermelho(bool estado){
+  digitalWrite(vermelho,estado);
 }
-void ledVerde(){
-  estadoLedVerde = !estadoLedVerde;
-  digitalWrite(verde,estadoLedVerde);
+void ledVerde(bool estado){
+  digitalWrite(verde,estado);
 }
 void ledAzul(bool estado){
-  estadoLedAzul = !estadoLedAzul;
-  digitalWrite(azul,estadoLedAzul);
+	digitalWrite(azul,estado);
 }
 
 int getTemperatura(){
