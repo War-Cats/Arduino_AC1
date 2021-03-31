@@ -4,7 +4,6 @@ const int verde = 6;
 const int azul = 7
 
 bool estadoLedVermelho = false;
-bool estadoLedAzul = false;
 
 //adicionar mais um botão
 const int botao1 = 2;
